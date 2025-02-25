@@ -1,6 +1,7 @@
 TODAY'S LOG
+
 so today i learnt about "linux account groups and user's permissions"
 Working with Vim editor...
 and i also learnt some extra commands in linux system...
 i also learnt how to use the vim code editor, how to read, edit and other stuffs on vim editor 
-I also learnt why CLI is more sort after in DevSecOps...for one, it is mor efficient, more easier to use for bulk operations and it is also more powerful in general 
+I also learnt why CLI is more sort after in DevSecOps...for one, it is more efficient, more easier to use for bulk operations and it is also more powerful in general 
