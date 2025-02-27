@@ -5,3 +5,6 @@ Working with Vim editor...
 and i also learnt some extra commands in linux system...
 i also learnt how to use the vim code editor, how to read, edit and other stuffs on vim editor 
 I also learnt why CLI is more sort after in DevSecOps...for one, it is more efficient, more easier to use for bulk operations and it is also more powerful in general 
+
+Sad to say i won't be doing learning DevSecOps again, simply because i don't want to dilute my efforts i want to solely focus on building backend applications, i wanto to be a specialist at that and that will require me to master it by repitition, so in order words
+all my spare time will geared towards perfecting my backend craft. 
