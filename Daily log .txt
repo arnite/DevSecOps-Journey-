@@ -8,3 +8,7 @@ I also learnt why CLI is more sort after in DevSecOps...for one, it is more effi
 
 Sad to say i won't be doing learning DevSecOps again, simply because i don't want to dilute my efforts i want to solely focus on building backend applications, i wanto to be a specialist at that and that will require me to master it by repitition, so in order words
 all my spare time will geared towards perfecting my backend craft. 
+
+Today's LOG
+so i have been applying for jobs lately, and i have found out that i will have to learn DEVOPS practices just enough to containarize and deploy my own applications, seems that course i downloaded will still be useful..
+why did i come to this conclusion? well in some of the job posts, some of the requirements asided the obvious backend stuffs, i am also seeing some devops requirements, stuffs like CI/CD pipelines, monitoring, IAC (infrstructure as code) e.t.c, so i can't afford to be left behind, also heard that some companies are adopting the "You build it, you deploy it" approach..
