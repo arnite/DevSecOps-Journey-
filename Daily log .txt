@@ -12,3 +12,6 @@ all my spare time will geared towards perfecting my backend craft.
 Today's LOG
 so i have been applying for jobs lately, and i have found out that i will have to learn DEVOPS practices just enough to containarize and deploy my own applications, seems that course i downloaded will still be useful..
 why did i come to this conclusion? well in some of the job posts, some of the requirements asided the obvious backend stuffs, i am also seeing some devops requirements, stuffs like CI/CD pipelines, monitoring, IAC (infrstructure as code) e.t.c, so i can't afford to be left behind, also heard that some companies are adopting the "You build it, you deploy it" approach..
+
+Today's LOG
+i learnt some SQl today, i learnt about JOINT and it's types, also learnt sorting, where, some CRUD operations, revised some basic syntax just to reinforce memory and lastly i learnt indexing, prior to now, the only type of indexing i knew was that of nosql, mongoDB to be precise.
