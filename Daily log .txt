@@ -16,4 +16,5 @@ why did i come to this conclusion? well in some of the job posts, some of the re
 Today's LOG
 i learnt some SQl today, i learnt about JOINT and it's types, also learnt sorting, where, some CRUD operations, revised some basic syntax just to reinforce memory and lastly i learnt indexing, prior to now, the only type of indexing i knew was that of nosql, mongoDB to be precise.
 Had to sign up to an SQL database provider, "railway", took me a while to setup but i got the hang of it in a couple of minutes.
-using remote database during develpment is easier for me bacause it makes it easier to deploy when i am done, i won't have to start setting up a remote database when i want to deploy, i just do it. 
+using remote database during develpment is easier for me bacause it makes it easier to deploy when i am done, i won't have to start setting up a remote database when i want to deploy, i just do it.
+jjj 
