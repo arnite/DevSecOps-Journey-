@@ -33,3 +33,6 @@ Continued with revision of past exercise. Today my cousin(Chidera) birthday as w
 
 jul 12
 Refined my freelance profile to better train the recommendation algorithm for better job matching....I mean I have to monetize this skill at some point
+
+jul 13
+revised my DevOps handout today.
