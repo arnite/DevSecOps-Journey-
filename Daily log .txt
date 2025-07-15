@@ -36,3 +36,6 @@ Refined my freelance profile to better train the recommendation algorithm for be
 
 jul 13
 revised my DevOps handout today.
+
+jul 15
+Still resolving my NYSC DevOps paused for now
